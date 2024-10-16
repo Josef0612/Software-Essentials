@@ -3,6 +3,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-left: 1000px;
  }
  
  
@@ -18,6 +19,3 @@ nav{
      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
 
- .navigatiebar{
-    padding: 10px 10%;
- }
